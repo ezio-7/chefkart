@@ -1,0 +1,173 @@
+.Ingredients{
+    margin-left : 24px;
+}
+
+.ing-head {
+    margin-top: 22px;
+}
+
+.ing-first {
+    width: 93px;
+    height: 22px;
+    text-align: left;
+    font: normal normal bold 16px/22px Open Sans;
+    letter-spacing: 0.16px;
+    color: #1C1C1C;
+    opacity: 1;
+}
+
+.ing-second{
+    width: 47px;
+    height: 11px;
+    text-align: left;
+    font: normal normal normal 8px/17px Open Sans;
+    letter-spacing: 0px;
+    color: #8A8A8A;
+    opacity: 1;
+    margin-top: -20px;
+}
+
+.ing-hr{
+    width: 280px;
+    height: 0px;
+    margin-top: 20px;
+    margin-left: 0px;
+    border: 0.5px solid #D6D6D6CE;
+    opacity: 1;
+}
+
+
+
+.ing-veg{
+    margin-top: 16px;
+}
+
+.ing-veg span{
+    width: 90px;
+    height: 17px;
+    text-align: left;
+    font: normal normal bold 12px/17px Open Sans;
+    letter-spacing: 0px;
+    color: #242424;
+    opacity: 1;
+}
+
+.ing-veg img{
+    width: 7px;
+    height: 3px;
+    opacity: 1;
+}
+
+.veg-main{
+    margin-top: 10px;
+}
+
+.veg-item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.veg-item span{
+    text-align: left;
+    font: normal normal normal 10px/14px Open Sans;
+    letter-spacing: 0px;
+    color: #1C1C1C;
+    opacity: 1;
+}
+
+.veg-item span:nth-of-type(2){
+    margin-right: -40px;
+}
+
+
+.ing-spices{
+    margin-top: 24px;
+}
+
+.ing-spices span{
+    width: 90px;
+    height: 17px;
+    text-align: left;
+    font: normal normal bold 12px/17px Open Sans;
+    letter-spacing: 0px;
+    color: #242424;
+    opacity: 1;
+}
+
+.ing-spices img{
+    width: 7px;
+    height: 3px;
+    opacity: 1;
+}
+
+.spices-main{
+    margin-top: 10px;
+}
+
+.spices-item{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px;
+}
+
+.spices-item span{
+    text-align: left;
+    font: normal normal normal 10px/14px Open Sans;
+    letter-spacing: 0px;
+    color: #1C1C1C;
+    opacity: 1;
+}
+
+.spices-item span:nth-of-type(2){
+    margin-right: -40px;
+}
+
+.ing-appliances{
+    margin-top: 24px;
+}
+
+.ing-appliances span{
+    width: 88px;
+    height: 22px;
+    text-align: left;
+    font: normal normal bold 16px/22px Open Sans;
+    letter-spacing: 0.16px;
+    color: #1C1C1C;
+    opacity: 1;
+}
+
+.appliances-main{
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.appliances-item{
+    width: 72px;
+    height: 95px;
+    background: #F5F5F5 0% 0% no-repeat padding-box;
+    border-radius: 7px;
+    opacity: 1;
+    margin-right: 40px;
+}
+.appliances-item img {
+    width: 60px;
+    height: 60px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+    margin-left: 5px;
+    margin-top: 10px;
+}
+
+.appliances-item span{
+    width: 44px;
+    height: 11px;
+    text-align: center;
+    font: normal normal normal 8px/11px Open Sans;
+    letter-spacing: 0px;
+    color: #242424;
+    opacity: 1;
+    margin-left: 14px;
+    margin-bottom: 13px;
+}

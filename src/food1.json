@@ -1,0 +1,49 @@
+{
+    "name": "Masala Mughlai",
+    "id": 1,
+    "timeToPrepare": "1 Hour",
+    "ingredients":
+    {
+        "vegetables":
+        [
+            {
+                "name": "Cauliflower",
+                "quantity": "1 Pc"
+            },
+            { 
+                "name": "Tomato",
+                "quantity": "10 Pc"
+            },
+            {
+                "name": "Spinach",
+                "quantity": "1/2 Kg"
+            }
+        ],
+        "spices":
+        [
+            {
+                "name": "Coriander",
+                "quantity": "100 gm"
+            },
+            {
+                "name": "Mustard Oil",
+                "quantity": "1/2 litres"
+            }
+        ],
+        "appliances":
+        [
+            {
+                "name": "Refrigerator",
+                "image": "https://img.icons8.com/color/48/fridge.png"
+            },
+            {
+                "name": "Microwave",
+                "image": "https://img.icons8.com/fluency/48/microwave.png"
+            },
+            {
+                "name": "Stove",
+                "image": "https://img.icons8.com/fluency/48/cooker.png"
+            } 
+        ] 
+    } 
+}

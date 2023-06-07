@@ -1,0 +1,132 @@
+.Intro{
+    margin-left : 16px;
+    margin-top: -8px;
+}
+
+.introBackLogo{
+    margin-top: 50px;
+}
+
+.introName{
+    text-align: left;
+    font: normal normal 800 23px/32px Open Sans;
+    letter-spacing: 0px;
+    color: #242424;
+    opacity: 1;
+    margin-top: 20px;
+}
+
+.introDesc{
+    width: 182px;
+    height: 39px;
+    text-align: left;
+    font: normal normal normal 8px/14px Open Sans;
+    letter-spacing: 0.16px;
+    color: #A3A3A3;
+    opacity: 1;
+    margin-top: 4px;
+}
+.time{
+    position: relative;
+}
+
+.timeToCook{
+    position: absolute;
+    margin-top: 2px;
+}
+
+.introImages{
+    position: absolute;
+    top: 53px;
+    left: 189px;
+    width: 192px;
+    height: 192px;
+    background: #FFF9F2 0% 0% no-repeat padding-box;
+    border-radius: 50%;
+    opacity: 1;
+    
+}
+
+.ingredient1Img{
+    position: absolute;
+    top: 140px;
+    left: 180px;
+    width: 321px;
+    height: 130px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.ingredient2Img{
+    position: absolute;
+    top: 81px;
+    left: 273px;
+    width: 215px;
+    height: 215px;
+    background: transparent  0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.time{
+    margin-top: 26.85px;
+}
+
+.timerLogo{
+    width: 12px;
+    height: 12px;
+    background: transparent 0% 0% no-repeat padding-box;
+    opacity: 1;
+}
+
+.timeToCook{
+    width: 31px;
+    height: 20px;
+    text-align: left;
+    font: normal normal 600 10px Open Sans;
+    letter-spacing: 0px;
+    color: #1C1C1C;
+    opacity: 1;
+    margin-left: 7.71px;
+}
+.page2hr{
+    width: 360px;
+    height: 3px;
+    background: #F2F2F2 0% 0% no-repeat padding-box;
+    opacity: 1;
+    border: none;
+    margin-top: 31px;
+    margin-left: -32px;
+}
+
+.introRating{
+    width: 22px;
+    height: 10px;
+    background: #51C452 0% 0% no-repeat padding-box;
+    border-radius: 2px;
+    opacity: 1;
+    margin-left: 10px;
+    position: absolute;
+    transform: translateY(15px);
+    z-index: 1;
+}
+
+.introRate{
+    position: absolute;
+    text-align: left;
+    font: normal normal 600 6px/8px Open Sans;
+    letter-spacing: 0.12px;
+    color: #FFFFFF;
+    opacity: 1;
+    margin-left: 4px;
+    margin-top: 2px;
+
+}
+
+.introStarLogo{
+    position: absolute;
+    opacity: 1;
+    width: 4px;
+    height: 4px;
+    margin-top: 3.5px;
+    transform: translateX(14px);
+}
